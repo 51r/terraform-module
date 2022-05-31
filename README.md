@@ -2,7 +2,7 @@
 
 This is an example repo that can be used as a module in Terraform.
 
-It includes Terraform Provider [random_pet](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/pet)
+It includes Terraform Provider [random_pet](https://registry.terraform.io/providers/hashicorp/random/latest/docs/resources/pet) which creates 10 random pet names.
 
 # Prerequisite
 * Install [Terraform](https://www.terraform.io/downloads.html) `>=0.12`
